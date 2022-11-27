@@ -21,3 +21,8 @@ Korištene tehnologije:
 - Bootstrap (https://getbootstrap.com/)
 - Google Maps (https://cloud.google.com/maps-platform/)
 - OverlappingMarkerSpiderfier plugin (N gusto postavljenih markera na mapi razdvaja u stilu paukove mreže za lakši pregled) (https://github.com/jawj/OverlappingMarkerSpiderfier)
+
+
+![](https://github.com/jjurinci/dogconnect/blob/master/public/images/dogconnect1.png)
+
+![](https://github.com/jjurinci/dogconnect/blob/master/public/images/dogconnect2.png)
